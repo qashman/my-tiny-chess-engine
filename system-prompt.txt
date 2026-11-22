@@ -1,0 +1,1 @@
+﻿Write a compact, deterministic chess engine in Python under 4096 bytes using only the standard library.
